@@ -17,6 +17,6 @@ const content = fs.readFileSync(path.join(
   fileName
 ), 'utf-8');
 
-// BEGIN
-
+// BEGI
+solution(content)
 // END
